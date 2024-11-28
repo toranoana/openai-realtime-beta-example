@@ -4,6 +4,9 @@ RealTime API Betaを利用するための OpenAI公式クライアント(https:/
 
 [openai-realtime-api-beta の サンプルコード](https://github.com/openai/openai-realtime-api-beta/blob/a5cb94824f625423858ebacb9f769226ca98945f/examples/node_devenv.mjs) を元に作成しました。
 
+
+![動作サンプル](./openai_realtime_api_beta_example.gif)
+
 ## 前提条件
 
 以下の環境を用意する必要があります。
